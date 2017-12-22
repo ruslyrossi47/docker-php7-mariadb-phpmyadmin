@@ -8,7 +8,7 @@ cd docker-php7-mariadb-phpmyadmin/
 docker-compose up -d
 ```
 
-You can access using http://localhost/ and phpMyAdmin using http://localhost:8181/phpmyadmin
+You can access using http://localhost/ and phpMyAdmin using http://localhost:8181/
 
 To connect from php code to MySql:
 
